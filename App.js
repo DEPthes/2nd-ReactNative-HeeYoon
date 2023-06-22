@@ -48,7 +48,7 @@ export default function App() {
     </View>
   );
 }
-
+//주석 for commit
 const styles = StyleSheet.create({
   container: {
     paddingTop: 100,
